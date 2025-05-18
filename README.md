@@ -54,15 +54,3 @@ jobs:
 
       - name: Run tests
         run: npm test
-3. Configure Deployment (Optional)
-Add a deployment job after testing:
-  deploy:
-    needs: build-and-test
-    runs-on: ubuntu-latest
-    environment:
-      name: production
-      url: ${{ steps.deployment.outputs.url }}
-
-    steps:
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v2
