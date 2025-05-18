@@ -54,7 +54,7 @@ jobs:
 
       - name: Run tests
         run: npm test
-
+```
 ### 3. Configure Deployment (Optional)
 
 Add a deployment job after testing:
