@@ -1,4 +1,3 @@
-````markdown
 # 🚀 GitHub Actions CI/CD Pipeline Guide
 
 This guide provides a structured approach to implementing a basic CI/CD pipeline using **GitHub Actions**, following official GitHub documentation standards.
@@ -55,7 +54,6 @@ jobs:
 
       - name: Run tests
         run: npm test
-````
 
 ### 3. Configure Deployment (Optional)
 
