@@ -1,7 +1,4 @@
 # 🚀 GitHub Actions CI/CD Pipeline Guide
-
-This guide provides a structured approach to implementing a basic CI/CD pipeline using **GitHub Actions**, following official GitHub documentation standards.
-
 ---
 
 ## 📌 Overview
