@@ -1,4 +1,4 @@
-# 🚀 GitHub Actions CI/CD Pipeline Guide
+# 🚀 GitHub Actions CI/CD Pipeline
 ---
 
 ## 📌 Overview
