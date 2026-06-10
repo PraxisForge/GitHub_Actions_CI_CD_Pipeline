@@ -7,14 +7,6 @@
 
 ---
 
-## ✅ Prerequisites
-
-- A GitHub repository
-- Read/Write access to the repository
-- Basic understanding of YAML syntax
-
----
-
 ## ⚙️ Implementation Steps
 
 ### 1. Create Workflow File
